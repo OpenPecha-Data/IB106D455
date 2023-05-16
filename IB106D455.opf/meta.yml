@@ -1,0 +1,18 @@
+id: IB106D455
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:31:04.717806
+last_modified: 2023-01-04 11:31:04.717824
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  '8454':
+    title: Essence of All the Buddhas of Past, Present and Future
+    base_file: 8454.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
